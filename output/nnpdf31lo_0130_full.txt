@@ -1,0 +1,9 @@
+LHAPDF 6.3.0 loading all 101 PDFs in set NNPDF31_lo_as_0130
+NNPDF31_lo_as_0130, version 1; 101 PDF members
+Mass:  8000  181.03466678025404 +/- 0.8819253021856948 (Int. Err) +/- 75.85575118582148(PDF Err) [fb]
+Mass:  8500  65.7833647819026 +/- 0.7963615600123577 (Int. Err) +/- 36.91224876043391(PDF Err) [fb]
+Mass:  9000  21.60110321617598 +/- 0.8646956197383293 (Int. Err) +/- 16.509913002742522(PDF Err) [fb]
+Mass:  9500  6.362765381546166 +/- 0.6573227262914711 (Int. Err) +/- 6.431930130531646(PDF Err) [fb]
+Mass:  10000  1.5749640075241818 +/- 0.43148425758378195 (Int. Err) +/- 2.1045860687995783(PDF Err) [fb]
+Thanks for using LHAPDF 6.2.3. Please make sure to cite the paper:
+  Eur.Phys.J. C75 (2015) 3, 132  (http://arxiv.org/abs/1412.7420)

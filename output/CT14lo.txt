@@ -1,0 +1,9 @@
+LHAPDF 6.3.0 loading all 1 PDFs in set CT14lo
+CT14lo, version 1; 1 PDF members
+Mass:  8000  148.2942193826707 +/- 0.6790939305812241 (Int. Err) +/- 0.0(PDF Err) [fb]
+Mass:  8500  48.182593760793296 +/- 0.3505160339389518 (Int. Err) +/- 0.0(PDF Err) [fb]
+Mass:  9000  13.659389071040158 +/- 0.2077265559945228 (Int. Err) +/- 0.0(PDF Err) [fb]
+Mass:  9500  3.2732001256443146 +/- 0.31430368125883895 (Int. Err) +/- 0.0(PDF Err) [fb]
+Mass:  10000  0.621772925869493 +/- 0.1468294365224374 (Int. Err) +/- 0.0(PDF Err) [fb]
+Thanks for using LHAPDF 6.2.3. Please make sure to cite the paper:
+  Eur.Phys.J. C75 (2015) 3, 132  (http://arxiv.org/abs/1412.7420)
